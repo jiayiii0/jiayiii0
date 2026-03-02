@@ -1,16 +1,17 @@
-## Hi there 👋
+# Chee Jia Bao
 
-<!--
-**jiayiii0/jiayiii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🔐 Interested in Cybersecurity  
+🇲🇾 Based in Malaysia  
 
-Here are some ideas to get you started:
+## Skills
+Python | C++ | Java | JavaScript | PHP  
+HTML | CSS  
+SQL | Database Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Learning cybersecurity, secure development, and building practical projects.
+
+## Contact
+Email: your-email@example.com  
+LinkedIn: https://linkedin.com/in/yourprofile
