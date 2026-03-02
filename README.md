@@ -13,5 +13,5 @@ SQL | Database Systems
 Learning cybersecurity, secure development, and building practical projects.
 
 ## Contact
-Email: your-email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+Email: cheejiayi0320@gmail.com
+LinkedIn: https://linkedin.com/in/jiayiiiiii
