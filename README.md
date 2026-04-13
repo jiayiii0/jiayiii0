@@ -1,4 +1,4 @@
-# Chee Jia Bao 👋
+# Chee Jia Bao 
 
 🎓 Computer Science Undergraduate (UTAR)
 📍 Malaysia
