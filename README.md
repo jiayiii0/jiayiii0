@@ -25,4 +25,4 @@ Computer Science student currently learning software development and exploring c
 ## 📫 Contact
 
 * Email: [cheejiayi0320@gmail.com](mailto:cheejia...@gmail.com)
-* LinkedIn: https://linkedin.com/in/jiayiiii
+* LinkedIn: [https://linkedin.com/in/jiayiiii](http://www.linkedin.com/in/jiayiiiiii)
