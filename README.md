@@ -1,14 +1,13 @@
 # Chee Jia Bao 👋
 
 🎓 Computer Science Undergraduate (UTAR)
-🔐 Interested in Cybersecurity & Machine Learning
 📍 Malaysia
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science student focused on cybersecurity and building practical projects. Currently working on a machine learning-based phishing detection system and security-focused applications.
+Computer Science student currently learning software development and exploring cybersecurity. Building projects to improve practical skills in programming and system design.
 
 ---
 
@@ -17,23 +16,22 @@ I am a Computer Science student focused on cybersecurity and building practical 
 **Languages:** Python, C++, Java, JavaScript
 **Web:** HTML, CSS, PHP
 **Database:** SQL
-**Learning:** Network Security, Linux, Wireshark
 
 ---
 
 ## 📌 Projects
 
-### 🔐 Phishing Detection System
+### Phishing Detection System
 
 * Machine learning model to classify phishing URLs
 * Feature engineering and model training
-* GitHub: (add your repo link here)
+* GitHub: (add your repo link)
 
-### 🌐 Exercise Tracking Web App
+### Exercise Tracking Web App
 
 * Full-stack application using PHP & MySQL
 * CRUD operations and database design
-* GitHub: (add your repo link here)
+* GitHub: (add your repo link)
 
 ---
 
