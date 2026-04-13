@@ -19,21 +19,6 @@ Computer Science student currently learning software development and exploring c
 
 ---
 
-## 📌 Projects
-
-### Phishing Detection System
-
-* Machine learning model to classify phishing URLs
-* Feature engineering and model training
-* GitHub: (add your repo link)
-
-### Exercise Tracking Web App
-
-* Full-stack application using PHP & MySQL
-* CRUD operations and database design
-* GitHub: (add your repo link)
-
----
 
 ## 📫 Contact
 
