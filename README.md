@@ -17,10 +17,11 @@ Computer Science student currently learning software development and exploring c
 Python, C++, Java, JavaScript  
 
 **Web:**  
-HTML, CSS, PHP  
+HTML, CSS, PHP
 
-**Database:**  
-SQL  
+**Databases:**
+SQL
+
 ---
 
 
