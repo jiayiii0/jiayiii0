@@ -13,14 +13,11 @@ Computer Science student currently learning software development and exploring c
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python, C++, Java, JavaScript  
+**Languages:**  Python, C++, Java, JavaScript  
 
-**Web:**  
-HTML, CSS, PHP
+**Web:**  HTML, CSS, PHP
 
-**Databases:**
-SQL
+**Database:**  SQL
 
 ---
 
